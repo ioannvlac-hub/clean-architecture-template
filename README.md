@@ -1,11 +1,11 @@
 # Clean Architecture Template
 
-[![Build](https://github.com/evangelosvlachos96-dotcom/clean-architecture-template/actions/workflows/build.yml/badge.svg)](https://github.com/evangelosvlachos96-dotcom/clean-architecture-template/actions/workflows/build.yml)
-[![CodeQL](https://github.com/evangelosvlachos96-dotcom/clean-architecture-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/evangelosvlachos96-dotcom/clean-architecture-template/actions/workflows/codeql.yml)
+[![Build](https://github.com/ioannvlac-hub/clean-architecture-template/actions/workflows/build.yml/badge.svg)](https://github.com/ioannvlac-hub/clean-architecture-template/actions/workflows/build.yml)
+[![CodeQL](https://github.com/ioannvlac-hub/clean-architecture-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/ioannvlac-hub/clean-architecture-template/actions/workflows/codeql.yml)
 
 > A `dotnet new` solution template for enterprise applications built on Clean Architecture, ASP.NET Core 10 and .NET Aspire, with an Angular, React or Web API-only front end and a choice of SQLite, PostgreSQL or SQL Server.
 
-Developed by **Evangelos Vlachos**.
+Developed by **Ioannis Vlachos**.
 
 ## Table of Contents
 
